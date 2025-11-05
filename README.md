@@ -42,10 +42,10 @@ Built with **Rust**, **Anchor Framework**, **Web3.js**, and **Next.js**, this pr
 ![Home Page](./Screenshot%202025-11-05%20162546.png)
 
 ### ⚙️ How It Works
-![How It Works](./Screenshot%202025-11-05%20162602.png)
+![How It Works](./Screenshot%202025-11-05%20162619.png)
 
 ### 💡 Why Choose VoteChain
-![Why Choose](./Screenshot%202025-11-05%20162619.png)
+![Why Choose](./Screenshot%202025-11-05%20162602.png)
 
 
 ## 🧩 How It Works
@@ -124,6 +124,7 @@ VoteChain/
 This project is a solid foundation for developers exploring **Solana DApps**, **Rust smart contracts**, and **Web3 frontend integration**.
 
 > 💡 *Your voice matters — your vote is protected.*
+
 
 
 
